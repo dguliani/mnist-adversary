@@ -25,7 +25,10 @@ Setup:
 3) Run `python3 train_mnist.py` in order to train a new mnist model. (This only needs to be run once)
 
 Fast Gradient Sign Method
-1) Run `python3 iterative_fgsm.py`
+1) Run `python3 ./experiments/iterative_fgsm.py`. This file will generate adversarial examples for 10 random images of 2s and save results under at `./results/iterative_fgsm`
+
+These results are shown here: 
+
 
 ## References Papers and Suggested Readings 
 https://www.sri.inf.ethz.ch/riai2017/Explaining%20and%20Harnessing%20Adversarial%20Examples.pdf
