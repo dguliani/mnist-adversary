@@ -1,3 +1,8 @@
+''' Look for pre-trained mnist model and restore it. Train a new 
+mnist model if pretrained model doesn't exist. 
+Much of the training code is borrowed from the tutorial found at:
+https://www.tensorflow.org/versions/r1.2/get_started/mnist/pros
+'''
 import os
 import tensorflow as tf
 import numpy as np
