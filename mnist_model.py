@@ -1,3 +1,7 @@
+''' Functions to build the base mnist convolutional network. 
+Taken almost directly from the tutorial found at:
+https://www.tensorflow.org/versions/r1.2/get_started/mnist/pros
+'''
 import tensorflow as tf
 
 def weight_variable(shape):
