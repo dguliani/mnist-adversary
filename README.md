@@ -31,25 +31,18 @@ These results are shown here:
 
 
 ## References Papers and Suggested Readings 
-https://www.sri.inf.ethz.ch/riai2017/Explaining%20and%20Harnessing%20Adversarial%20Examples.pdf
-Ian J. Goodfellow, Jonathon Shlens: “Explaining and Harnessing Adversarial Examples”, 2014; arXiv:1412.6572.
+[Ian J. Goodfellow, Jonathon Shlens: “Explaining and Harnessing Adversarial Examples”, 2014; arXiv:1412.6572.](https://www.sri.inf.ethz.ch/riai2017/Explaining%20and%20Harnessing%20Adversarial%20Examples.pdf)
 
-https://arxiv.org/pdf/1412.1897.pdf
-Anh Nguyen, Jason Yosinski: “Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images”, 2014; arXiv:1412.1897.
+[Anh Nguyen, Jason Yosinski: “Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images”, 2014; arXiv:1412.1897.](https://arxiv.org/pdf/1412.1897.pdf)
 
-https://arxiv.org/pdf/1611.01236.pdf
-Alexey Kurakin, Ian Goodfellow: “Adversarial Machine Learning at Scale”, 2016; arXiv:1611.01236.
+[Alexey Kurakin, Ian Goodfellow: “Adversarial Machine Learning at Scale”, 2016; arXiv:1611.01236.](https://arxiv.org/pdf/1611.01236.pdf)
 
-https://arxiv.org/pdf/1608.04644.pdf
-Nicholas Carlini: “Towards Evaluating the Robustness of Neural Networks”, 2016; arXiv:1608.04644.
+[Nicholas Carlini: “Towards Evaluating the Robustness of Neural Networks”, 2016; arXiv:1608.04644.](https://arxiv.org/pdf/1608.04644.pdf)
 
-https://arxiv.org/pdf/1804.08598.pdf
-Andrew Ilyas, Logan Engstrom, Anish Athalye: “Black-box Adversarial Attacks with Limited Queries and Information”, 2018; arXiv:1804.08598.
+[Andrew Ilyas, Logan Engstrom, Anish Athalye: “Black-box Adversarial Attacks with Limited Queries and Information”, 2018; arXiv:1804.08598.](https://arxiv.org/pdf/1804.08598.pdf)
 
-https://arxiv.org/pdf/1802.00420.pdf
-Anish Athalye, Nicholas Carlini: “Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples”, 2018; arXiv:1802.00420.
+[Anish Athalye, Nicholas Carlini: “Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples”, 2018; arXiv:1802.00420.](https://arxiv.org/pdf/1802.00420.pdf)
 
-https://arxiv.org/pdf/1801.02610.pdf
-Chaowei Xiao, Bo Li, Jun-Yan Zhu, Warren He, Mingyan Liu: “Generating Adversarial Examples with Adversarial Networks”, 2018; arXiv:1801.02610.
+[Chaowei Xiao, Bo Li, Jun-Yan Zhu, Warren He, Mingyan Liu: “Generating Adversarial Examples with Adversarial Networks”, 2018; arXiv:1801.02610.](https://arxiv.org/pdf/1801.02610.pdf)
 
-Gamaleldin F. Elsayed, Ian Goodfellow: “Adversarial Reprogramming of Neural Networks”, 2018; arXiv:1806.11146.
+[Gamaleldin F. Elsayed, Ian Goodfellow: “Adversarial Reprogramming of Neural Networks”, 2018; arXiv:1806.11146.](https://arxiv.org/pdf/1806.11146.pdf)
