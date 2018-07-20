@@ -18,9 +18,6 @@ We start with a white-box method which requires access to network architecture f
 
 For this experiment, it was found through trial an error that allowing the perturbed image to be at most e < 0.14 away from the original was sufficient to allow consistent misclassification in the target direction. This e value is a per-pixel quantity and equates to the l_infinity distance metric from literature. 
 
-### Differential Evolution 
-An approach found in literature for black-box single pixel attacks is through the use of differential evolution for minimization of a particular loss function that captures targetted adversarial attack. In early experiments, we have yet to get this method to work and successfully attack mnist with just a single pixel. 
-
 ## Analysis 
 It is very simple to direct a standard MNIST classifier to misclassify 2s as 6s using the iterative FGSM technique. However, this technique requires white-box access to the network and its gradients. Future work will involve further black-box testing and restrictions on the number of pixels that can be perturbed. 
 
