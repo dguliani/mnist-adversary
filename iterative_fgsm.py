@@ -54,7 +54,7 @@ for i in range(300):
                     y_: mnist.test.labels[selected_twos], keep_prob: 1.0}
     fgsm_grads = sess.run(grad, feed_dict=feed_dict)
     
-    signed_grads = np.sign(fgsm_grads[0]) # Zero indexed as the input is shape (1, 10000, 784)
+    signed_grads = np.sign(fgsm_grads[0]) # Zero indexed as the input is shape (1, _, 784)
 
     fgsm_images -= learning_rate*signed_grads
     fgsm_images = np.clip(
